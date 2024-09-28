@@ -15,18 +15,20 @@
 - **OS:** Android 8.1 (Oreo), upgradable to Android 9.0 (Pie)
 
 ### Development Notes
-- **Bootloader:** Locked/Unlocked
-- **Root Access:** Available/Not Available
-- **Custom ROMs:** List any custom ROMs available
 
 ### Useful Links
 - [Official Samsung Support](https://www.samsung.com/support/)
 - [XDA Developers Forum](https://forum.xda-developers.com/)
+- [Lineageos 19.1 for Samsung](https://xdaforums.com/t/unofficial-12-1-lineageos-19-1-for-galaxy-j4-j4primelte.4517067)
+- [TWRP](https://twrp.me/samsung/samsunggalaxyj4plus.html)
 
 ### To-Do
-- [ ] Research custom ROMs
+- [ ] Research custom ROM
 - [ ] Test root methods
 - [ ] Document any issues and fixes
 
-### Changelog
+## Resources
+https://aur.archlinux.org/packages/odin4-cli
+
+## Changelog
 - **v0.1** - Initial notes and specifications

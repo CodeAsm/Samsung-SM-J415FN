@@ -111,7 +111,7 @@ for these we need the source tree and device tree:
 some 64bit? (compare with above, find original samsung?)
 - [havoc uses this?](https://github.com/geckyn/android_kernel_samsung_msm8917_64)
 - [havoc](https://github.com/Havoc-OS)
-- [](https://xdaforums.com/t/rom-arm64-10-0-havoc-os-3-6-for-galaxy-j4-unofficial.4086831/)
+- [Havoc OS on XDA](https://xdaforums.com/t/rom-arm64-10-0-havoc-os-3-6-for-galaxy-j4-unofficial.4086831/)
 
 ### Useful Links
 - [Official Samsung Support](https://www.samsung.com/support/)

@@ -30,5 +30,3 @@
 ## Resources
 https://aur.archlinux.org/packages/odin4-cli
 
-## Changelog
-- **v0.1** - Initial notes and specifications

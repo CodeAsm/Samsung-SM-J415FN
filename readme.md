@@ -5,6 +5,8 @@ btw, im an Arch user.
 
 ### Get odin and adb
 
+enable devoper mode, probably unlock the OEM bootlaoder thing and allow USB debugging for adb (both cool and maybe not all needed at the same time). After OEM unlock, you need dev mode again, and now be a great time for USB debug.
+
 ```sh
 yay odin4-cli android-sdk-platform-tools
 ```
@@ -19,6 +21,12 @@ to load?
 ```sh
 udevadm control --reload
 ```
+
+after usb debug allow, check this out:
+```sh
+adb devices
+```
+so cool
 
 ### Flash TWRP
 

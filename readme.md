@@ -1,5 +1,7 @@
 # Samsung SM-J415FN (Galaxy J4+)
 
+These are my notes on getting another rom on this phone. Not my primairy phone, but i hope I can make use of this and learn how to do so maybe on my primairy.
+
 ## Notes
 btw, im an Arch user.
 

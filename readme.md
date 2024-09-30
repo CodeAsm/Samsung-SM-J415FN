@@ -76,12 +76,18 @@ https://xdaforums.com/t/unofficial-12-1-lineageos-19-1-for-galaxy-j4-j4primelte.
 
 https://twrp.me/samsung/samsunggalaxyj4plus.html
 
-
+Well, that or whatever fixed my issue. I had amoung other things, flashed the stock os and set back my clock/date a year before the last update (somewhere november 2019). And then odin4 -a twrp worked as a charm.
 
 ### Flash Lineageos
 
 Well, after i got TWRP working, it was simple, i made a backup on my SD and then, wiped (full) data and lineageos installed easy.
+(cleaning Dalvik/cache also smart.)
 
+## Dalvik/Cache
+I dint knew, but after you flash a new rom, just clean dalvik/cache.
+I cant find the stackoverflow that explained it so nice, but https://xdaforums.com/t/what-does-wiping-dalvik-cache-do.1752390/ does a bit.
+
+basicly when you run apps (or the system does) the dalvik cache cashes stuff for them, so they may run faster next time. when swapping roms, all these chached apps nomore match whats on your new rom. so better just wipe the cache dalvik stuff, so a new collection is made during runtime. something with hashes too maybe.
 
 ## General Information
 - Model: Samsung SM-J415FN

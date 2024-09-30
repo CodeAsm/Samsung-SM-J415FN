@@ -110,6 +110,13 @@ for these we need the source tree and device tree:
 - [Device tree samsung msm8917](https://github.com/msm8917-dev/android_device_samsung_msm8917-common)
 - [kernel source samsung msm8917](https://github.com/msm8917-dev/android_kernel_samsung_msm8917)
 
+Alternative, ased on (https://xdaforums.com/t/rom-unofficial-10-lineageos-17-1-for-galaxy-j4-j4primelte.4057939/):
+
+- [Device tree](https://github.com/MacTavishAO/android_device_samsung_j4primelte)
+- [Common Device tree](https://github.com/MacTavishAO/android_device_samsung_msm8917-common)
+- [Vendor blobs](https://github.com/MacTavishAO/proprietary_vendor_samsung)
+- [Kernel source](https://github.com/MacTavishAO/android_kernel_samsung_msm8917)
+
 some 64bit? (compare with above, find original samsung?)
 - [havoc uses this?](https://github.com/geckyn/android_kernel_samsung_msm8917_64)
 - [havoc](https://github.com/Havoc-OS)

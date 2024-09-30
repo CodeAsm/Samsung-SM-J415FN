@@ -150,7 +150,7 @@ sourced it from https://opensource.samsung.com/uploadList
 
 ``SM-J415FN, J415FNXXS6BVJ1, SM-J415FN_CIS_PP_Opensource.zip``
 
-### Git doesnt support large files (unless lfs)
+### Git(hub/lab) doesnt support large files (unless lfs)
 
 where is SM-J415FN_CIS_PP_Opensource.zip ? 
 ive split the archive, run this, then check hash:
@@ -167,22 +167,3 @@ ive used the following if your curious:
 ```sh
 split --bytes=50M SM-J415FN_CIS_PP_Opensource.zip
 ```
-
-### Flash TWRP
-
-### Backup?
-
-### Flash Lineageos
-
-## General Information
-- Model: Samsung SM-J415FN
-- Series: Galaxy J4+
-
-### Specifications
-- **Display:** 6.0 inches, 720 x 1480 pixels
-- **Processor:** Quad-core 1.4 GHz Cortex-A53
-- **RAM:** 2GB / 3GB
-- **Storage:** 16GB / 32GB
-- **Battery:** 3300 mAh
-- **OS:** Android 8.1 (Oreo), upgradable to Android 9.0 (Pie)
-

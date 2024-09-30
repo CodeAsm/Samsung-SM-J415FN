@@ -158,6 +158,10 @@ ive split the archive, run this, then check hash:
 cat x* > SM-J415FN_CIS_PP_Opensource.zip
 sha256sum SM-J415FN_CIS_PP_Opensource.zip
 ```
+Windows users appear to be able to run (untested, check sha256):
+```cmd
+copy /b x* SM-J415FN_CIS_PP_Opensource.zip
+```
 
 ive used the following if your curious:
 ```sh

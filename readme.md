@@ -130,13 +130,6 @@ some 64bit? (compare with above, find original samsung?)
 - [Odin for Arch Linux](https://aur.archlinux.org/packages/odin4-cli)
 - [Pokemon go on Lineagesos](https://digiex.net/threads/play-pokemon-go-with-a-custom-rom-or-root-lineageos-19-20-android-12-13-how-to.15624/)
 
-### To-Do
-- [ ] Research custom ROM
-- [ ] Test root methods
-- [ ] Document any issues and fixes
-
-
-
 
 ### Flash TWRP
 
@@ -155,18 +148,4 @@ some 64bit? (compare with above, find original samsung?)
 - **Storage:** 16GB / 32GB
 - **Battery:** 3300 mAh
 - **OS:** Android 8.1 (Oreo), upgradable to Android 9.0 (Pie)
-
-## Development Notes
-
-### Useful Links
-- [Official Samsung Support](https://www.samsung.com/support/)
-- [XDA Developers Forum](https://forum.xda-developers.com/)
-- [Lineageos 19.1 for Samsung](https://xdaforums.com/t/unofficial-12-1-lineageos-19-1-for-galaxy-j4-j4primelte.4517067)
-- [TWRP](https://twrp.me/samsung/samsunggalaxyj4plus.html)
-- [Odin for Arch Linux](https://aur.archlinux.org/packages/odin4-cli)
-
-### To-Do
-- [ ] Research custom ROM
-- [ ] Test root methods
-- [ ] Document any issues and fixes
 

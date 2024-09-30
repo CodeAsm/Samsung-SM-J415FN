@@ -136,6 +136,33 @@ some 64bit? (compare with above, find original samsung?)
 - [Odin for Arch Linux](https://aur.archlinux.org/packages/odin4-cli)
 - [Pokemon go on Lineagesos](https://digiex.net/threads/play-pokemon-go-with-a-custom-rom-or-root-lineageos-19-20-android-12-13-how-to.15624/)
 
+## Official source
+
+Found Samsung does still provide the sources for this phone officially. if not anymore, I got them, and they are in this repo folder "official". In case you dont trust me, or another source, check them yourself and tripple ask yourself why the sha256 matches or not. (if they do match, from another source, my asumption is, you got the real deal)
+
+The sha256 for the zip should be:
+``dd67a9a3d7500a8b02f78d97e3d03297ceec3353adea9516386c5bd7123f25e9``
+
+and if you prever md5 ``25a77d767d2b78d45a7ce1a821759f7e``
+
+sourced it from https://opensource.samsung.com/uploadList
+
+
+``SM-J415FN, J415FNXXS6BVJ1, SM-J415FN_CIS_PP_Opensource.zip``
+
+### Git doesnt support large files (unless lfs)
+
+where is SM-J415FN_CIS_PP_Opensource.zip ? 
+ive split the archive, run this, then check hash:
+```sh
+cat x* > SM-J415FN_CIS_PP_Opensource.zip
+sha256sum SM-J415FN_CIS_PP_Opensource.zip
+```
+
+ive used the following if your curious:
+```sh
+split --bytes=50M SM-J415FN_CIS_PP_Opensource.zip
+```
 
 ### Flash TWRP
 
